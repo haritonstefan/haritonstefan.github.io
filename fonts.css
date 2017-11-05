@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Consolas;
+    src: url('fonts/Consolas.eot');
+    src: url('fonts/Consolas.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Consolas.woff') format('woff'),
+    url('fonts/Consolas.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Mondad;
+    src: url('fonts/MonadRegular.eot');
+    src: url('fonts/MonadRegular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/MonadRegular.woff') format('woff'),
+    url('fonts/MonadRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: CallingCode;
+    src: url('fonts/CallingCode-Regular.eot');
+    src: url('fonts/CallingCode-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/CallingCode-Regular.woff') format('woff'),
+    url('fonts/CallingCode-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Structr;
+    src: url('fonts/Structr%20Regular.eot');
+    src: url('fonts/Structr%20Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/StructrRegular.woff') format('woff'),
+    url('fonts/StructrRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Structr;
+    src: url('fonts/Structr%20Medium.eot');
+    src: url('fonts/Structr%20Medium.eot?#iefix') format('embedded-opentype'),
+    url('fonts/StructrMedium.woff') format('woff'),
+    url('fonts/StructrMedium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Structr;
+    src: url('fonts/Structr%20Bold.eot');
+    src: url('fonts/Structr%20Bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/StructrBold.woff') format('woff'),
+    url('fonts/StructrBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
